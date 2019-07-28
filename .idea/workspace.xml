@@ -62,8 +62,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>later version</find>
-      <find>return this\.downstream\.(.*)\((.*)\)$</find>
+      <find />
+      <find />
       <find>arguments</find>
       <find>close</find>
       <find>\(%o\)</find>
@@ -74,7 +74,7 @@
       <find>List:</find>
       <find>list&quot;</find>
       <find>stream</find>
-      <find>undefined //</find>
+      <find />
       <find>console.log</find>
       <find>reply</find>
       <find>SITE</find>
@@ -83,9 +83,9 @@
       <find>list\(</find>
     </findStrings>
     <replaceStrings>
-      <replace>return util.promisify(this.downstream.$1).call(this.downstream, $2)</replace>
+      <replace />
       <replace>[...arguments]</replace>
-      <replace>arguments.join(', ')</replace>
+      <replace />
       <replace>(%s(</replace>
       <replace>[...arguments].join</replace>
       <replace>(%s)</replace>
@@ -126,7 +126,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="243" />
     <option name="y" value="27" />
     <option name="width" value="1074" />

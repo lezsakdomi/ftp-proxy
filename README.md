@@ -55,5 +55,6 @@ before login to select a virtual host. For example: `myuser@gmail.com@192.168.0.
   - Find a way to reliably determine for a path if it's a directory or not
   - More promises
 - Maybe use different libraries or none at all?
+- Make it a real daemon with binaries (aka `yarn global add ftp-srv`)
 
 Pull requests are welcome :)
