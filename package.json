@@ -1,0 +1,14 @@
+{
+  "name": "ftp-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Domonkos Lezsák",
+  "license": "GPL-3.0-only",
+  "private": false,
+  "dependencies": {
+    "dockerode": "^2.5.8",
+    "ftp": "^0.3.10",
+    "ftp-srv": "^4.1.1",
+    "through2": "^3.0.1"
+  }
+}
