@@ -8,7 +8,7 @@
   "dependencies": {
     "dockerode": "^2.5.8",
     "ftp": "^0.3.10",
-    "ftp-srv": "^4.1.1",
+    "ftp-srv": "^4.4.0",
     "through2": "^3.0.1"
   }
 }
